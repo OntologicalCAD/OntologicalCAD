@@ -26,7 +26,7 @@ public class Main  extends Application {
 		//LatestFromGithubLaunchUI.argsFromSystem=args;
 		LatestFromGithubLaunchUI.argsFromSystem=new String[] {
 				"-g",
-				"https://github.com/CommonWealthRobotics/CaDoodle-script.git",
+				"https://github.com/OntologicalCAD/OntologicalCAD-script.git",
 				"Main.groovy"
 		};
 		LatestFromGithubLaunchUI.project="CommonWealthRobotics";
